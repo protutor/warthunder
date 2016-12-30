@@ -1,0 +1,6 @@
+name:t="user"
+
+replace_tex{
+  from:t="ger_camo_dunkelgelb*"
+  to:t="..\personal.tga"
+}
