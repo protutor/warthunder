@@ -1,5 +1,5 @@
 *.bak
-
-
+src/camouflage/original/*.tga
+src/camouflage/personal/*.tga
 
 
